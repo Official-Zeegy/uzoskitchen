@@ -226,7 +226,7 @@ header nav .nav-menu ul li a:active {
 
 footer {
   display: flex;
-  height: 200px;
+  height: 250px;
   color: #fff;
   background-color: #00796b;
 }
@@ -238,7 +238,7 @@ footer {
   width: 100%;
   justify-content: space-between;
   align-items: center;
-  padding: 0% 32px;
+  padding: 32px 32px;
 }
 
 footer .fdetails {
